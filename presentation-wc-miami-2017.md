@@ -326,6 +326,8 @@
 
 ---
 
+![](assets/path.jpg)
+
 # Talk about the journey for each product
 
 ^ how does someone find the product? How do they find your site? Maybe coupons that connect their online & physical store are important.
@@ -338,38 +340,6 @@
 
 ---
 
-# What Do They Need?
-
-* What types of products do they plan on selling?
-* How many resources will they need?
-* How do they plan on shipping products?
-* How do they plan on accepting payment online?
-* Will they need multiple languages or currencies?
-* How are they planning on handling taxes?
-* What other integrations will they need?
-
-^ Now I put all of these together onto one slide in case anyone wants to take a picture
-
-^ But I'm going to go into each one of these individually so don't worry about writing everything down.
-
----
-
-![](assets/storefront.jpg)
-
-## What types of products do they plan on selling?
-
-^ this is a really big and important question. This question usually tells you what type of e-commerce platform you'll use.
-
-^ are they only planning on selling one ebook? Maybe go with Gumroad.
-
-^ Are they planning on selling software? I'd probably go with Easy digital downloads.
-
-^ Are they planning on selling physical products? Or a combination of the above? I'd probably go with WooCommerce.
-
-^ One thing to watch out for here. Don't just ask them what they're planning on selling this year.
-
----
-
 ![](assets/path.jpg)
 
 ## Ask them about where they want to go
@@ -378,198 +348,38 @@
 
 ---
 
-## How many resources will they need?
-
-![](assets/chris-lema-youtube.png)
-
-### https://youtu.be/ucAne6bcSkI
-
-^ Basically you need to know how big their brand is. How many sales are they expecting in the first month or the first year.
-
-^ I'd say 95% of e-commerce stores are going to be tiny to start and they won't need any special considerations. But sometimes you will work with a brilliant marketer and their product will take off.
-
-^ Chris Lema gave an amazing talk about scaling WooCommerce up to 2,000 add to carts per minute.
-
-^ That's insane. And also insanely cool.
-
-^ So it's good to know your upper limit. If you have someone who will generate that amount of traffic you'll need to look into custom hosting, custom programming and a lot more.
-
-^ But luckily 95% of stores aren't going to have that problem. Most stores are going to have something like 1 sale a week when they launch.
-
----
-
-![](assets/path.jpg)
-
-## How do they plan on shipping products?
-
-^ Now I've had mixed results with shipping. When I work with freelancers or a brand new store owner they're very flexible and they'll ship with whatever is most convenient. They'll usually pick FedEx, USPS, or UPS and just go with it.
-
-^ With established companies they might have a deal with a shipping company. And that's fine. What's worse is when they're in negotiations with the shipping companies for lower rates so they can't settle on a shipping company for weeks or months.
-
-^ I've had that happen.
-
-^ So nail down how your client is going to ship.
-
-^ And if you can't get them to nail anything down right now. Keep it as a variable in your proposal. Say we'll figure out shipping later but it will cost in between this range.
-
----
-
-![](assets/piggy-bank.jpg)
-
-## How do they plan on accepting payment online?
-
-^ Payments can be really complex or really simple. Again with small or brand new companies if you recommend Stripe or PayPal they'll usually take your recommendation and be fine with it.
-
-^ And both of those are really easy to setup. It won't take more than a 15 minutes once you know what you're doing.
-
-^ But sometimes clients have weird payment gateways. And sometimes those gateways don't have an integration with WooCommerce and they'll take 40 hours to program. Or they take forever to setup becuase you can't get their API keys.
-
-^ This is where you can add language to your contract to protect you and your client.
-
----
-
-![](assets/piggy-bank.jpg)
-
-"Will add functionality to process credit cards on site with a modern gateway (ex. Stripe or Braintree). If using an older, less known, or more complicated gateway additional fees may apply."
-
----
-
-![](assets/piggy-bank.jpg)
-
-## Will they need multiple languages or currencies?
-
-^ This can be massively complex. Especially currencies. There are setups for using WPML with WooCommerce. And then each instance of WooCommerce will have it's own currency.
-
-^ But if you do this you'll likely want a 3rd party platform to manage all of your orders and another 3rd party platform to manage inventory between your sites.
-
-^ Multiple languages & currencies can double or triple the cost for a project. So for most small businesses it's not worth it. When a client asks you about multiple languages you can entertain the idea. But make sure they understand the cost benefit ratio.
-
----
-
-## How are they planning on handling taxes?
-
-* Manual
-* Automated: TaxJar
-
-^ Taxes are not handled by eCommerce platforms. 9 times out of 10 you have to enter and confirm the tax rates your self. That means you have to get them from the client. Which means the client has to get them.
-
-^ I often advise using a 3rd party tax service like TaxJar.
-
----
-
-![](assets/computer-screen.jpg)
-
-## What other tools do you work with?
-
-^ Make sure you ask them about any other integrations. Any time they need to fetch, update, or combine data it could be a massive amount of work. And you want to know that before you start any project.
-
----
-
 # 2. Definition
 
-^ telling your client exactly what you're going to do
+^ So after discovery where you figure out everything you need. The next step is to repeat it all back to the client. You want to make it as clear as possible what you're going to do.
 
-^ now if you're doing MVP. These take a lot of time to create. So they probably aren't worth it.
+^ Depending on the type of project, the budget, and your project management style you may decided to do some of these, none of these, or all of these.
 
 ---
 
-# What You're Going to Do
+# Define what you're going to do
 
 * Sitemaps
 * Wireframes
 * Prototyping
 * Tech specs
 * Client expectations
-* Overhead
 * Communication tools & Frequency
 
-^ I'll cover each of these in detail in a minute. But I've put them all here for any picture takers
+^ I tend to do sitemaps with every project. You're just defining what pages are going to be where and what type of content is on each page.
 
-^ Now each agency or freelancer will probably do some combination of these. You certainly don't have to do them all.
+^ Wireframes are helpful when someone wants a custom theme developed. It's a tool to make sure that everything is on each page. Regardless of the design. People focus less on the pixels and more on the content.
 
----
+^ Prototypes are great when the client wants some custom search functionality like instant search. You can show them something quickly to make sure you're on the same page.
 
-## Sitemaps
+^ Confirm the technical specifications you're going to use. Let them know this is what you think they'll need. And what could be added down the line.
 
-* About Us (bio of founder)
-* Shop page (list 4 products)
-    * Individual product pages (buy button)
-* Cart & Checkout (accept payment)
-* Contact (includes a form)
+^ Setting client expectations is super important. People who are new to e-commerce have no idea what they have to do. I've run into clients who assume you'll ship their packages for them. Or you'll manage their orders. Or you'll update their tax rates for them.
 
-^ sitemaps are there to make sure that all of your pages are accounted for.
+^ You can address this by putting in your contract. Once a year we'll update tax rates. Or we'll install Tax Jar or some other service to keep your tax rates up to date.
 
-^ So if there's content on the site it should be represented in the site map
+^ And then lastly communication. I've found it really helpful to talk about how often you will communicate with them during and after the process.
 
-^ again this is something that's really nice to have the client sign off on.
-
----
-
-## Wireframes
-
-^ wireframes are there to show what content will appear on the page.
-
-^ they're minimalistic and that's the point. Instead of the client worrying about button color they focus on that content of the page. So if there was a miscommuncation about what should be in the sidebar this is where you catch it.
-
-^ If you show a client a design I promise you they'll bug you endlessly about the size of the buttons or the color of the search box. And they could miss something really important.
-
-^ I like to have clients sign off on wire frames. Makes sure they say "yes everything is included"
-
----
-
-## Prototypes
-
-^ prototypes are there to show a client what something could look like. When they ask about instant search. What does that mean exactly? Examples are really good place to start.
-
-^ But sometimes even an example might not be enough. In that case it's helpful to prototype something. Here's what our instant filtering looks like for products.
-
-^ once a client has seen something if they like it they can sign off. And if they don't like it they can request something different but that likely means paying more for it.
-
----
-
-## Tech Specs
-
-^ I like to get on the same page with hosting and other technology. Make sure they see the cost of hosting and they sign off on it.
-
----
-
-## Client Expectations
-
-^ Now I like to include a section in my proposal with client expectations.
-
-^ There are clients that expect you to update plugins and themes for free.
-
-^ There are clients that expect you to update the tax information every year for free.
-
-^ And There are clients out there who assume you'll ship their products for them.
-
-^ If you can communicate what you'll do and what you expect them to do that's very helpful. Keep in mind most clients aren't bad. They just don't know what questions to ask. They might assume taxes update automatically. And I think that's a fair assumption. So go over all of this with them. Make sure they are responsible for x, y, & z.
-
-^ I usually like to set the expectation that this website is version 1. There will likely be some things that aren't quite working the way they imagined. And we can catch up a month after launch and start working on a proposal for updates.
-
----
-
-## Overhead
-
-^ Now this isn't I bill my clients for but it is important for you to build into your costs.
-
-^ In a recent project I spent about 1/3 of my time communicating with the company. Now many project managers recommend you have one point of contact. And that's an okay idea. But I like being embedded in a company. It means I can give answers directly to the person who asked the question. And if there are follow ups I can respond to those.
-
-^ I get better data and I get more buy in from a company this way. But it does cost something. It costs me a lot of my time.
-
-^ I probably spent 8 hour writing up the contract, 8-10 hours doing the work, another 12 hours synthesizing all of the work I did and writing a report and then 10 hours of communication with their team.
-
-^ So for me I did 20 hours of work. With 20 hours of other work related things on top of that. So take that into account with your estimates.
-
----
-
-## Communication Tools & Frequency
-
-^ and that is cost saving. If you have fewer meetings you can save a lot of money.
-
-^ But of course you might notice a problem later than expected and that could cost you more money.
-
-^ The trick is to find the sweet spot for your company and your client.
+^ Now each agency or freelancer will probably do some combination of these. You certainly don't have to do them all. The bigger the budget the more of these you'll want to do.
 
 ---
 
@@ -581,9 +391,24 @@
 
 ---
 
-# About Patrick Rauland
+![](assets/uss-freedom.jpg)
 
-^ So my name is Patrick Rauland. I'm a lynda.com author, I create e-commerce sites, I consult with WordPress VIP companies on e-commerce proposals, and I'm currently consulting with Automattic to put on WooConf - the annual WooCommerce Conference.
+# Remember: Have a _plan_!
+
+^ The US Navy might be able to get away with a ship that costs 2-3 times as much as it was originally promised. But if you're working with small businesses they don't have an extra $200 million laying around.
+
+^ So cross your T's and dot your I's.
+
+---
+
+![right](assets/phoenix.jpg)
+
+# Questions?
 
 * http://speakinginbytes.com
 * http://www.lynda.com/trial/patrickrauland
+* http://wooconf.com
+
+^ So my name is Patrick Rauland. I'm a Lynda.com author, I create e-commerce sites, I consult with WordPress VIP companies on e-commerce proposals, and I'm currently consulting with Automattic to put on WooConf - the annual WooCommerce Conference.
+
+^ The lynda link is a free 10 day trial to Lynda.com. I have 7 WordPress courses. 2 of which are about WooCommerce. So there's lots of good e-commerce stuff up there.
