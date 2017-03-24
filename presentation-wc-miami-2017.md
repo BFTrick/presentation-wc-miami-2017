@@ -16,19 +16,15 @@
 
 ^ There are aircraft carriers that can carry 63 aircraft of various types
 
-^ But they're slow, really expensive, and they take forever to build.
-
-^ A new aircraft carrier costs in between 2-5 billion. And the US is looking at designing new aircraft carriers and the cost for development and design is going to be closer to 10-12 billion.
-
-^ And aircraft carriers take around 5 years to build. So if you think you might need to use an aircraft carrier you better have started building it 5 years ago.
+^ But they're slow, really expensive (2-5 billion), and they take forever to build.
 
 ---
 
 ![fit](assets/uss-winston-s-churchill-destroyer.jpg)
 
-^ There are destroyers. They're good at short range battles but don't hold any aircraft. And they usually need to team up with bigger ships.
+^ There are destroyers. They're good at medium range battles but don't hold any aircraft so they can't do any land based missions. And because of that they usually need to team up with bigger ships.
 
-^ These are much cheaper but they still cost a lot to build and they take a lot less time to create
+^ These are much cheaper but they still cost a lot to build
 
 ---
 
@@ -46,15 +42,9 @@
 
 ^ What if we combined all of these needs together. What if we could make one boat that could do all of these. It could save us a ton of money and we'd get the same benefit.
 
-^ We could use cheaper construction materials and abandon the ship once it's taken a hit.
-
-^ And this actually can make financial sense. You see it takes a lot of highly specialized building materials and space to be able to take a hit from a cannon.
-
-^ You could instead create two slightly less well-built ships for the same price. And having two ships gives you more fire power and if your ship does take a hit you can abandon ship and go back to base in the other ship.
-
 ^ Now in _theory_ all of this should work really well.
 
-^ Of course you can already guess that things won't turn out well.
+^ Of course you can probably already guess that things won't turn out well.
 
 ---
 
@@ -78,7 +68,7 @@
 
 ![](assets/uss-freedom.jpg)
 
-^ Now they knew they wanted a ship that could hold aircraft, shoot targets, and clear mines. But they didn't have a plan.
+^ Now they knew they wanted a ship that could hold aircraft, shoot cannons, and clear mines. But they didn't have a plan.
 
 ^ So as the ship is being constructed people in the navy are deciding how to do that.
 
@@ -106,13 +96,9 @@
 
 ![](assets/uss-freedom.jpg)
 
-^ And remember they were supposed to cost 200 million. So now that they're twice as expensive they have a choice.
+^ And remember they were supposed to cost 200 million. So now that they're twice as expensive.
 
-^ Do they scrap the project - put it on hold to give them time to figure something else out - or do they continue?
-
-^ They continue.
-
-^ And actually they decide since the ship costs so much more that they should invest in that stronger construction so it can take more than one hit.
+^ And since they cost so much more they decide to use better building materials so the ship can survive longer.
 
 ^ So now the ships cost 478 million dollars each.
 
