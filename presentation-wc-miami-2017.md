@@ -92,7 +92,7 @@
 
 ---
 
-# [fit]$300-400 Million
+# [fit] $300-400 Million
 
 ![](assets/uss-freedom.jpg)
 
@@ -100,9 +100,22 @@
 
 ^ And since they cost so much more they decide to use better building materials so the ship can survive longer.
 
+---
+
+# [fit] $478 Million
+
+![](assets/uss-freedom.jpg)
+
 ^ So now the ships cost 478 million dollars each.
 
 ^ And that's the new cost. Remember how they already started construction? Well now they have to go back and retrofit the ships that were under construction.
+
+---
+
+## USS Freedom $478 Million
+## USS Independence $708 Million
+
+![](assets/uss-freedom.jpg)
 
 ^ The USS Freedom cost $637 million
 
@@ -381,9 +394,9 @@
 
 # Remember: Have a _plan_!
 
-^ The US Navy might be able to get away with a ship that costs 2-3 times as much as it was originally promised. But if you're working with small businesses they don't have an extra $200 million laying around.
+^ The US Navy has a really inefficient process. They start multi-million dollar projects without looking at any of the details. And they cost 2-3 times as much as originally promised. And they have severe issues.
 
-^ So cross your T's and dot your I's.
+^ If you want to deliver projects on time, under project, and fully functional then have a plan.
 
 ---
 
