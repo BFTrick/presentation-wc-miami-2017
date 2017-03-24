@@ -239,6 +239,8 @@
 
 ---
 
+![](assets/wedding-cake.jpg)
+
 # 2. Phases
 
 ## Do what you know
@@ -262,6 +264,8 @@
 ^ Educate them on accepting money, carts, online chat, fulfillment, live shipping rates, etc.
 
 ---
+
+![](assets/skateboard.jpg)
 
 # 3. MVP
 
@@ -347,6 +351,8 @@
 
 ---
 
+![](assets/writing-notebook.jpg)
+
 # 2. Definition
 
 ^ So after discovery where you figure out everything you need. The next step is to repeat it all back to the client. You want to make it as clear as possible what you're going to do.
@@ -354,6 +360,8 @@
 ^ Depending on the type of project, the budget, and your project management style you may decided to do some of these, none of these, or all of these.
 
 ---
+
+
 
 # Define what you're going to do
 
@@ -381,6 +389,8 @@
 ^ Now each agency or freelancer will probably do some combination of these. You certainly don't have to do them all. The bigger the budget the more of these you'll want to do.
 
 ---
+
+![](assets/business-man-drinking-coffee.jpg)
 
 # 3. Proposal
 
