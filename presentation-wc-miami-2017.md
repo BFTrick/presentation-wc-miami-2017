@@ -112,7 +112,7 @@
 
 ---
 
-## USS Freedom $478 Million
+## USS Freedom $638 Million
 ## USS Independence $708 Million
 
 ![](assets/uss-freedom.jpg)
@@ -321,11 +321,17 @@
 
 ![](assets/listening.jpg)
 
-# Your client will likely ask for a website
+# Unknown unknowns
+
+^ clients always ask for something simple.
 
 ^ it's your job to ask them the right questions. They don't know what they don't know.
 
+^ they'll ask for a subscription website. Like it's the easiest thing in the world. They don't know how complicated it is.
+
 ^ if you want a positive relationship with them you'll have to remove obstacles for them. Whether they're obstacles they've thought of or obstacles they haven't.
+
+^ The way to figure this out is...
 
 ---
 
@@ -339,7 +345,7 @@
 
 ^ what happens after they order the product? Fulfillment, Ratings, reviews?
 
-^ a side benefit is that both you and the client are thinking about the client.
+^ a side benefit is that both you and the client are thinking about the customer.
 
 ---
 
