@@ -1,10 +1,12 @@
 # Scoping eCommerce Projects
 
-## Patrick Rauland
+### Patrick Rauland
 
-## @BFTrick
+### @BFTrick
 
-![](assets/uss-freedom.jpg)
+http://bit.ly/wcmia-scope
+
+![](assets/magnifying-glass.jpg)
 
 ^ It was the early 2000s and the US Navy was looking to build a new type of ship.
 
